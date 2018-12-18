@@ -1,0 +1,11 @@
+/home/thassya/Área de Trabalho/kings/bin/Debug/netcoreapp2.1/kings.deps.json
+/home/thassya/Área de Trabalho/kings/bin/Debug/netcoreapp2.1/kings.runtimeconfig.json
+/home/thassya/Área de Trabalho/kings/bin/Debug/netcoreapp2.1/kings.runtimeconfig.dev.json
+/home/thassya/Área de Trabalho/kings/bin/Debug/netcoreapp2.1/kings.dll
+/home/thassya/Área de Trabalho/kings/bin/Debug/netcoreapp2.1/kings.pdb
+/home/thassya/Área de Trabalho/kings/obj/Debug/netcoreapp2.1/kings.csprojAssemblyReference.cache
+/home/thassya/Área de Trabalho/kings/obj/Debug/netcoreapp2.1/kings.csproj.CoreCompileInputs.cache
+/home/thassya/Área de Trabalho/kings/obj/Debug/netcoreapp2.1/kings.AssemblyInfoInputs.cache
+/home/thassya/Área de Trabalho/kings/obj/Debug/netcoreapp2.1/kings.AssemblyInfo.cs
+/home/thassya/Área de Trabalho/kings/obj/Debug/netcoreapp2.1/kings.dll
+/home/thassya/Área de Trabalho/kings/obj/Debug/netcoreapp2.1/kings.pdb
